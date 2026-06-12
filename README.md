@@ -1,6 +1,6 @@
 # 🏨 Sistema de Reservas de Hotel
 
-Este é um sistema simples e completo para gerenciamento de quartos e reservas de um hotel. O projeto é composto por uma **API/Backend** em Node.js com Express e Prisma (conectando a um banco MySQL/MariaDB) e um **Frontend** responsivo em HTML, CSS e JavaScript Vanilla.
+Sistema web desenvolvido para gerenciamento de quartos e reservas de hotel, permitindo o cadastro, consulta e exclusão de quartos e reservas através de uma interface web integrada a uma API e banco de dados.
 
 ---
 
@@ -30,9 +30,9 @@ Este é um sistema simples e completo para gerenciamento de quartos e reservas d
 
 ## Como testa localmente
 
-1. Copie o link do repositório:
+1. Clone o repositório:
     ``` bash
-    https://github.com/EnzoToniato567/Hotel-Reservas.git
+    git clone https://github.com/SEU_USUARIO/hotelreservas.git
     ```
 
 2. Abra com Git Bash Terminal
@@ -97,25 +97,25 @@ Este é um sistema simples e completo para gerenciamento de quartos e reservas d
 <img src="WIREFRAMES/img 03.png" alt="Informações quarto" width="80%">
 
 ---
-####
-<img src="WIREFRAMES/img 04.png" alt="Reservas Cadastradas" width="80%">
+#### 4. Opções de quartos:
+<img src="WIREFRAMES/img 04.png" alt="Tipos de quarto" width="80%">
 
 ---
-
-<img src="WIREFRAMES/screenshot2.png" alt="Reservas Cadastradas" width="100%">
-
----
-
-<img src="WIREFRAMES/screenshot2.png" alt="Reservas Cadastradas" width="100%">
+#### 5. Quarto cadastrado:
+<img src="WIREFRAMES/img 05.png" alt="Quarto cadastrado" width="80%">
 
 ---
-
-<img src="WIREFRAMES/screenshot2.png" alt="Reservas Cadastradas" width="100%">
-
----
-
-<img src="WIREFRAMES/screenshot2.png" alt="Reservas Cadastradas" width="100%">
+#### 6. Informações para cadastro de reserva:
+<img src="WIREFRAMES/img 06.png" alt="Informações reserva" width="80%">
 
 ---
+#### 7. Reservas feitas:
+<img src="WIREFRAMES/img 07.png" alt="Reservas feitas" width="80%">
 
-<img src="WIREFRAMES/screenshot2.png" alt="Reservas Cadastradas" width="100%">
+---
+#### 8. Tela de exclusão de reserva:
+<img src="WIREFRAMES/img 08.png" alt="Excluir reserva" width="80%">
+
+---
+#### 9. Tela de exclusão de quarto:
+<img src="WIREFRAMES/img 09.png" alt="Excluir quarto" width="80%">
